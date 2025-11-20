@@ -1,4 +1,4 @@
-# Super Trunfo em C – Tema 2  
+# Tema 3 - Super Trunfo em C: Desenvolvendo a lógica do jogo.  
 Comparação de atributos entre duas cartas de cidades usando estruturas condicionais aninhadas e menu interativo.
 
 ## 📘 Descrição
